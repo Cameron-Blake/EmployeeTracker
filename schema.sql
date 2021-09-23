@@ -34,3 +34,12 @@ CREATE TABLE employee (
 
 
 
+INSERT INTO department (name)
+VALUES ("HR"), ("Labor"), ("IT");
+
+INSERT INTO role (title, salary, department_id)
+VALUES ("Nurse", 20000, 1 ),  ("Molder", 15000, 2), ("Junior Developer", 26000, 3),  ("Computer Technicion", 30000, 3), ("HR Assistant",14000, 1),
+("HR Manager", 24000, 1);
+
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
+VALUES ("Jim","Bob",1 ,6)("Blue","Shmue",2 ,NULL)("Cameron","Blake",3 ,4)("Marvin","Darvin",4 ,NULL)("Harold","Gerald",5 ,6)("Darth","Vader",6 ,NULL )
