@@ -1,0 +1,26 @@
+{
+  "name": "EmployeeTracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cameron-Blake/EmployeeTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cameron-Blake/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/Cameron-Blake/EmployeeTracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "ctable": "0.0.3",
+    "inquirer": "^8.1.2",
+    "mysql": "^2.18.1"
+  }
+}
