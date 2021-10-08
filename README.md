@@ -28,7 +28,7 @@
 
   ## Usage 
 
-  [!Walkthrough](../images/walkthrough.webm)
+  [!Walkthrough](images\newwalkthrough.gif)
 
   ## License
     
